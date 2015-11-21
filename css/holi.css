@@ -6,8 +6,6 @@
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     background: url('../img/bg.jpg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
@@ -113,6 +111,18 @@ footer p {
 
 .social-buttons {
     padding: 50px;
+}
+
+.blueviolet{
+    color: blueviolet;
+}
+
+.green{
+    color: green;
+}
+
+.royalblue{
+    color: royalblue;
 }
 
 @media screen and (min-width:768px) {
